@@ -1,0 +1,7 @@
+DVC is good for pipelines/tracking
+go to website -> documentation for installation
+will help with end to end pipeline
+create dvc.yaml file
+initialise by dvc init
+then dvc repro will run the yaml config
+dvc dag will show the current dag
