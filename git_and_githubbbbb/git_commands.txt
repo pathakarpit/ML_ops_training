@@ -1,0 +1,6 @@
+git branch  :tells you about all the available branches
+git checkout -b <name>  : creates a branch
+git add . : adds all the files to staging
+git add <file name> : particular file goes to staging
+git commit -m "<comment>" : commits the code to the branch
+git push origin <branch name>: uploads to connected repo
